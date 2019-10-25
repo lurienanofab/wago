@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="/cplcfg/EA-config.xsl" ?>
+<WAGO>
+    <Module ARTIKELNR="750-5xx" MODULETYPE="DO" CHANNELCOUNT="4" MAP="PLC"></Module>
+    <Module ARTIKELNR="750-5xx" MODULETYPE="DO" CHANNELCOUNT="4" MAP="PLC"></Module>
+    <Module ARTIKELNR="750-5xx" MODULETYPE="DO" CHANNELCOUNT="4" MAP="PLC"></Module>
+    <Module ARTIKELNR="750-5xx" MODULETYPE="DO" CHANNELCOUNT="4" MAP="PLC"></Module>
+    <Module ARTIKELNR="750-5xx" MODULETYPE="DO" CHANNELCOUNT="4" MAP="PLC"></Module>
+    <Module ARTIKELNR="750-5xx" MODULETYPE="DO" CHANNELCOUNT="4" MAP="PLC"></Module>
+</WAGO>
